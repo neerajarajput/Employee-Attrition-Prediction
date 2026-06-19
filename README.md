@@ -48,7 +48,7 @@ The dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 ## Tools & Technologies
 
